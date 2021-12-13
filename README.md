@@ -24,6 +24,5 @@ We now have a handful of spreads that show promise. From these results, we can i
 
 ![image](https://user-images.githubusercontent.com/74067072/145735629-fc1175e2-29f4-4958-a52a-3cedf211ccfc.png)
 
-
-
+That's essentially all for this script. I have subsequently loaded some of these z-scores into Backtrader and begun to tinker with creating a potential strategy based upon these values, but I think I'll leave that for another time.
 
