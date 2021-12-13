@@ -22,7 +22,7 @@ Let's take a look at which spreads were stationary:
 
 We now have a handful of spreads that show promise. From these results, we can infer that the spreads are stationary, and calculate a z-score. Creating a z-score in essence creates a new normal distribution of spread data points, and from this, we can develop our thesis for pairs trading. In this instance, 2 and -2 standard deviations (sigmas, or σ) are marked on the chart, indicating when one could consider going long (at -2σ) or short (at +2σ).
 
-![image](https://user-images.githubusercontent.com/74067072/145735865-18da60d5-ef0e-445d-b653-b279a8c3c319.png)
+![image](https://user-images.githubusercontent.com/74067072/145735961-51d4099a-7f5f-4612-bf36-6a612d203ab0.png)
 
 That's essentially all for this script. I have subsequently loaded some of these z-scores into Backtrader and begun to tinker with creating a potential strategy based upon these values, but I think I'll leave that for another time.
 
